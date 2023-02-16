@@ -45,9 +45,29 @@ body{
     padding: 1em;
 }
 
+#post {
+    background: white;
+    padding: 1em;
+}
+
 #footer{
     background: rebeccapurple;
     text-align: center;
     color: white;
     padding: 0.5em;
 }
+<<<<<<< HEAD
+=======
+
+#post {
+    background: white;
+    padding: 1em;
+}
+
+
+#footer >img{
+    width: 54px;
+}
+
+
+>>>>>>> footer
